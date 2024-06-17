@@ -1,0 +1,25 @@
+& c:/users/vinic/appdata/local/programs/python/python312/python.exe "c:/users/vinic/desktop/trabalho ia/assistente_virtual_com_log.py"
+& c:/users/vinic/appdata/local/programs/python/python312/python.exe "c:/users/vinic/desktop/trabalho ia/assistente_virtual_com_log.py"
+pesquisar no youtube
+sair
+& c:/users/vinic/appdata/local/programs/python/python312/python.exe "c:/users/vinic/desktop/trabalho ia/assistente_virtual_com_log.py"
+& c:/users/vinic/appdata/local/programs/python/python312/python.exe "c:/users/vinic/desktop/trabalho ia/assistente_virtual_com_log.py"
+& c:/users/vinic/appdata/local/programs/python/python312/python.exe "c:/users/vinic/desktop/trabalho ia/assistente_virtual_com_log.py"
+sair
+encerrar
+encerrar
+encerrar
+sair
+encerrar
+& c:/users/vinic/appdata/local/programs/python/python312/python.exe "c:/users/vinic/desktop/trabalho ia/assistente_virtual_com_log.py"
+sair
+encerrar& c:/users/vinic/appdata/local/programs/python/python312/python.exe "c:/users/vinic/desktop/trabalho ia/assistente_virtual_com_log.py"
+encerrar
+criar nova lista
+abrir wikipedia
+encerrar
+abrir wikipedia
+& c:/users/vinic/appdata/local/programs/python/python312/python.exe "c:/users/vinic/desktop/trabalho ia/assistente_virtual_com_log.py"
+abrir wikipedia
+abrir wikipedia
+encerrar
